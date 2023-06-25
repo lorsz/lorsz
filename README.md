@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @lorsz
-- 👀 I’m interested in ... graphics, disaplys, organization, visual clutter reduction and smart productivity hacking. anti-flat design. nostalgia aesthic and skeumorphism nerd. 
-- 🌱 I’m currently learning ... the basic basics. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @lorsz. Usually im LORZs but unfortunatley my tag was taken. so here i am LorsZ. 
+- 👀 I’m interested in ... graphics, disaplys, organization, visual clutter reduction and productivity optimization.  i enjoy functional and brutalist design. human factors. nostalgic retro tech aesthic and skeumorphism supporter.  
+- 🌱 I’m currently learning ... the most basic basics. 
+- 💞️ I’m looking to collaborate on ... human computer interaction and design. 
+- 📫 How to reach me ... you can email me at lorzs@mail.com
+- my web beginnings were amongst livejournal, deadjournal, AIM, avatar palace, and expages. 
 
 <!---
 lorsz/lorsz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
